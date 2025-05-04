@@ -1,0 +1,122 @@
+[
+  {
+    "nom": "WildCam Indoor 360",
+    "prix": 69.99,
+    "type": "intérieur, motorisée 360°",
+    "résolution": "Full HD 1080p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "Cloud + carte SD",
+    "utilisation": "appartement, maison",
+    "description": "Parfaite pour garder un œil sur votre intérieur. Contrôle à distance et rotation 360°."
+  },
+  {
+    "nom": "WildCam Outdoor Pro",
+    "prix": 119.99,
+    "type": "extérieur, résistante intempéries",
+    "résolution": "2K",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": false,
+    "stockage": "carte SD",
+    "utilisation": "jardin, façade, portail",
+    "description": "Solide et fiable, conçue pour la surveillance extérieure avec alerte instantanée."
+  },
+  {
+    "nom": "WildCam Mini Wi-Fi",
+    "prix": 39.99,
+    "type": "intérieur, Wi-Fi compact",
+    "résolution": "HD 720p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": false,
+    "stockage": "Cloud",
+    "utilisation": "studio, chambre, petit bureau",
+    "description": "Ultra simple à installer, idéale pour une surveillance discrète au quotidien."
+  },
+  {
+    "nom": "WildCam Vision 4K",
+    "prix": 249.00,
+    "type": "intérieur/extérieur, 4K premium",
+    "résolution": "4K Ultra HD",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "Cloud + local",
+    "utilisation": "entreprises, entrepôts, villas",
+    "description": "La Rolls des caméras : qualité d’image incroyable et sécurité renforcée."
+  },
+  {
+    "nom": "WildCam Solar Guard",
+    "prix": 149.00,
+    "type": "extérieur, autonome solaire",
+    "résolution": "Full HD 1080p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "carte SD",
+    "utilisation": "terrains, zones isolées",
+    "description": "Fonctionne sans électricité grâce au panneau solaire intégré. 100% autonome."
+  },
+  {
+    "nom": "WildCam DoorView",
+    "prix": 89.99,
+    "type": "visiophone connecté",
+    "résolution": "HD 720p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "Cloud",
+    "utilisation": "porte d'entrée, immeubles",
+    "description": "Remplace votre judas traditionnel. Parlez à vos visiteurs depuis votre smartphone."
+  },
+  {
+    "nom": "WildCam BabySafe",
+    "prix": 74.99,
+    "type": "intérieur, surveillance bébé",
+    "résolution": "Full HD 1080p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "carte SD",
+    "utilisation": "chambre bébé",
+    "description": "Détecte les pleurs, vous alerte et vous permet de rassurer bébé à distance."
+  },
+  {
+    "nom": "WildCam Twin Pack",
+    "prix": 129.99,
+    "type": "pack 2 caméras Wi-Fi",
+    "résolution": "Full HD 1080p",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "Cloud",
+    "utilisation": "maison, boutique",
+    "description": "2 caméras pour couvrir plusieurs zones de votre domicile ou commerce."
+  },
+  {
+    "nom": "WildCam MotionLite",
+    "prix": 54.90,
+    "type": "intérieur fixe",
+    "résolution": "HD 720p",
+    "vision_nocturne": false,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": false,
+    "stockage": "carte SD",
+    "utilisation": "entrée, cuisine",
+    "description": "Petit prix pour une grande tranquillité. Idéale en complément d’un système existant."
+  },
+  {
+    "nom": "WildCam 360 Outdoor AI",
+    "prix": 199.00,
+    "type": "extérieur motorisée IA",
+    "résolution": "2K",
+    "vision_nocturne": true,
+    "détection_mouvement": true,
+    "audio_bidirectionnel": true,
+    "stockage": "Cloud + carte SD",
+    "utilisation": "parking, hangars, grands jardins",
+    "description": "Caméra intelligente avec rotation automatique et suivi des mouvements suspects."
+  }
+]
