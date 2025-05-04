@@ -4,11 +4,28 @@
     "prix": 69.99,
     "type": "intérieur, motorisée 360°",
     "résolution": "Full HD 1080p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "Cloud + carte SD",
-    "utilisation": "appartement, maison",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: Cloud + carte SD",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: appartement, maison",
+        "priorité": 5
+      }
+    ],
     "description": "Parfaite pour garder un œil sur votre intérieur. Contrôle à distance et rotation 360°."
   },
   {
@@ -16,11 +33,24 @@
     "prix": 119.99,
     "type": "extérieur, résistante intempéries",
     "résolution": "2K",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": false,
-    "stockage": "carte SD",
-    "utilisation": "jardin, façade, portail",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Stockage: carte SD",
+        "priorité": 3
+      },
+      {
+        "label": "Usage: jardin, façade, portail",
+        "priorité": 4
+      }
+    ],
     "description": "Solide et fiable, conçue pour la surveillance extérieure avec alerte instantanée."
   },
   {
@@ -28,35 +58,82 @@
     "prix": 39.99,
     "type": "intérieur, Wi-Fi compact",
     "résolution": "HD 720p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": false,
-    "stockage": "Cloud",
-    "utilisation": "studio, chambre, petit bureau",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Stockage: Cloud",
+        "priorité": 3
+      },
+      {
+        "label": "Usage: studio, chambre, petit bureau",
+        "priorité": 4
+      }
+    ],
     "description": "Ultra simple à installer, idéale pour une surveillance discrète au quotidien."
   },
   {
     "nom": "WildCam Vision 4K",
-    "prix": 249.00,
+    "prix": 249.0,
     "type": "intérieur/extérieur, 4K premium",
     "résolution": "4K Ultra HD",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "Cloud + local",
-    "utilisation": "entreprises, entrepôts, villas",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: Cloud + local",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: entreprises, entrepôts, villas",
+        "priorité": 5
+      }
+    ],
     "description": "La Rolls des caméras : qualité d’image incroyable et sécurité renforcée."
   },
   {
     "nom": "WildCam Solar Guard",
-    "prix": 149.00,
+    "prix": 149.0,
     "type": "extérieur, autonome solaire",
     "résolution": "Full HD 1080p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "carte SD",
-    "utilisation": "terrains, zones isolées",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: carte SD",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: terrains, zones isolées",
+        "priorité": 5
+      }
+    ],
     "description": "Fonctionne sans électricité grâce au panneau solaire intégré. 100% autonome."
   },
   {
@@ -64,11 +141,28 @@
     "prix": 89.99,
     "type": "visiophone connecté",
     "résolution": "HD 720p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "Cloud",
-    "utilisation": "porte d'entrée, immeubles",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: Cloud",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: porte d'entrée, immeubles",
+        "priorité": 5
+      }
+    ],
     "description": "Remplace votre judas traditionnel. Parlez à vos visiteurs depuis votre smartphone."
   },
   {
@@ -76,11 +170,28 @@
     "prix": 74.99,
     "type": "intérieur, surveillance bébé",
     "résolution": "Full HD 1080p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "carte SD",
-    "utilisation": "chambre bébé",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: carte SD",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: chambre bébé",
+        "priorité": 5
+      }
+    ],
     "description": "Détecte les pleurs, vous alerte et vous permet de rassurer bébé à distance."
   },
   {
@@ -88,35 +199,78 @@
     "prix": 129.99,
     "type": "pack 2 caméras Wi-Fi",
     "résolution": "Full HD 1080p",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "Cloud",
-    "utilisation": "maison, boutique",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: Cloud",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: maison, boutique",
+        "priorité": 5
+      }
+    ],
     "description": "2 caméras pour couvrir plusieurs zones de votre domicile ou commerce."
   },
   {
     "nom": "WildCam MotionLite",
-    "prix": 54.90,
+    "prix": 54.9,
     "type": "intérieur fixe",
     "résolution": "HD 720p",
-    "vision_nocturne": false,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": false,
-    "stockage": "carte SD",
-    "utilisation": "entrée, cuisine",
+    "fonctionnalités": [
+      {
+        "label": "Détection de mouvement",
+        "priorité": 1
+      },
+      {
+        "label": "Stockage: carte SD",
+        "priorité": 2
+      },
+      {
+        "label": "Usage: entrée, cuisine",
+        "priorité": 3
+      }
+    ],
     "description": "Petit prix pour une grande tranquillité. Idéale en complément d’un système existant."
   },
   {
     "nom": "WildCam 360 Outdoor AI",
-    "prix": 199.00,
+    "prix": 199.0,
     "type": "extérieur motorisée IA",
     "résolution": "2K",
-    "vision_nocturne": true,
-    "détection_mouvement": true,
-    "audio_bidirectionnel": true,
-    "stockage": "Cloud + carte SD",
-    "utilisation": "parking, hangars, grands jardins",
+    "fonctionnalités": [
+      {
+        "label": "Vision nocturne",
+        "priorité": 1
+      },
+      {
+        "label": "Détection de mouvement",
+        "priorité": 2
+      },
+      {
+        "label": "Audio bidirectionnel",
+        "priorité": 3
+      },
+      {
+        "label": "Stockage: Cloud + carte SD",
+        "priorité": 4
+      },
+      {
+        "label": "Usage: parking, hangars, grands jardins",
+        "priorité": 5
+      }
+    ],
     "description": "Caméra intelligente avec rotation automatique et suivi des mouvements suspects."
   }
 ]
